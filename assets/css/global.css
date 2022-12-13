@@ -7,6 +7,13 @@ body {
     background-color: #f6f8fc;
 }
 
+h1 {
+    color: #fd00006e;
+    border-radius: 50px;
+    background-color: #008000;
+    height: 35px;
+}
+
 .content {
     width: 100vw;
     height: 100vh;
